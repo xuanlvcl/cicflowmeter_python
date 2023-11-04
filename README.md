@@ -5,7 +5,7 @@
 
 ### Installation
 ```sh
-git clone https://github.com/datthinh1801/cicflowmeter.git
+git clone [https://github.com/datthinh1801/cicflowmeter.git](https://github.com/xuanlvcl/cicflowmeter_python.git)
 cd cicflowmeter
 python3 setup.py install
 ```
